@@ -17,7 +17,7 @@
                BlueprintIdentifier = "5341A08E1949FFD800BF1643"
                BuildableName = "Search.swift.app"
                BlueprintName = "Search.swift"
-               ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+               ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

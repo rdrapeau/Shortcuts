@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A47FD7BC-EA32-4C31-960B-DFBFB8EF7CDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPhoto</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>742D2B10772CC0BFB0325F188E3E14DBBB1B571C</key>
+		<string>https://github.com/rdrapeau/Shortcuts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhoto.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>742D2B10772CC0BFB0325F188E3E14DBBB1B571C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rdrapeau/Shortcuts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>742D2B10772CC0BFB0325F188E3E14DBBB1B571C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>742D2B10772CC0BFB0325F188E3E14DBBB1B571C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Shortcuts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
