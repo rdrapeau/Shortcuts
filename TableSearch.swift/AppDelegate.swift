@@ -11,8 +11,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
         
         let path = NSBundle.mainBundle().pathForResource("data", ofType: "txt")
-        var text = String(contentsOfFile: path!, encoding: NSUTF8StringEncoding, error: nil)!
-        var lines = text.componentsSeparatedByString("\n")
+        let text = String(contentsOfFile: path!, encoding: NSUTF8StringEncoding, error: nil)!
+        let lines = text.componentsSeparatedByString("\n")
         
         var products = Array<Product>()
         
