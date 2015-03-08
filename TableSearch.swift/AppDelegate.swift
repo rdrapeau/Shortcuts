@@ -18,7 +18,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         for line in lines {
             var tokenized = line.componentsSeparatedByString("###") // ### Separated data
-            products.append(Product(type: Product.deviceTypeTitle, name: tokenized[0], year: tokenized[1], price: tokenized[2]))
+            
+            if (tokenized.count == 3) { // Make sure it is a valid token
+                products.append(Product(type: Product.deviceTypeTitle, name: tokenized[0], year: tokenized[1], price: tokenized[2]))
+            }
         }
 
         let navController = window.rootViewController as UINavigationController
