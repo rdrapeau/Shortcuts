@@ -2,10 +2,10 @@ Import Photos###Shift-Command-I###Press Shift-Command-I to start the photo impor
 Export Photos###Shift-Command-E###Press Shift-Command-E to start the photo export process. You will be able to chose different file formats, sizes and quailties to export your photos to
 Jump to Top of Library###Home###Press Home to move to the top of the photo library
 Jump to Bottom of Library###End###Press End to move to the bottom of the photo library
-Create New Folder###Option-Shift-Command-N###Press Option-Shift-Command-N to create a new folder within your photo library
-Create New (Empty) Album###Shift-Command-N###Press Shift-Command-N To create a new empty albim within your photo library
+Create Folder###Option-Shift-Command-N###Press Option-Shift-Command-N to create a new folder within your photo library
+Create (Empty) Album###Shift-Command-N###Press Shift-Command-N To create a new empty albim within your photo library
 Create Album From Selection###Command-N###Press Command-N to create a new album from photos that are selected (highlighted)
-Create new Smart Album###Option-Command-N###Press Option-Command-N to creat a new smart album. A smart album is a type of album that will automaticly fill itself with photos that it is set to find. For example a Smart Album that is set to find all photos from the year 1998
+Create Smart Album###Option-Command-N###Press Option-Command-N to create a new smart album. A smart album is a type of album that will automaticly fill itself with photos that it is set to find. For example a Smart Album that is set to find all photos from the year 1998
 Set Event Key Photo###Press Space Over Photo###To set a key photo for an event hold the mouse over the event, move left or right to find the photo then press space on the keyboard. This works for a Faces group too. Another way to set the Key Photo is to go into the Event and right click the photo, then press 'Make Key Photo'
 Scroll to Selected Event###G###Press G to scroll the selected even into view
 Split Event###S###Highlight a picture in an event and Press S to split that picture and all pictures following it into a new event
@@ -28,7 +28,7 @@ Flag/Unflag a Photo###Command-Period (.)###Press Command-Period (.) to flag or u
 Hide/Show a Hidden Photo###Command-L###Press Command-L to make a photo hidden. If the command is performed on a photo that is already hidden the photo will become visable again.
 Manage keywords###Command-K###Press Command-K to manage keywords for a selected photo
 Delete Published Album###Command-Delete###Press Command-Delete to delete a published album
-Delete Photo###Delete###Press Delete on a selected photo to delete it from the photo library
+Delete Photo###Delete###Press Delete on a selected photo to move it to the trash. To permenantly delete go to the trash folder on the left side of the application and press delete on the photo again
 Move Photo to Trash###Option-Command-Delete###Press Option-Command-Delete to move the selected photo(s) to the trash
 Empty Trash###Shift-Command-Delete###Press Shift-Command-Delete to empty the iPhoto trash
 Select all Photos###Command-A###Press Command-A to select all photos
