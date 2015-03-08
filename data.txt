@@ -1,0 +1,63 @@
+Import Photos###Shift-Command-I###Press Shift-Command-I to start the photo import process. You will be able to select photos to import from anywhere in your Mac
+Export Photos###Shift-Command-E###Press Shift-Command-E to start the photo export process. You will be able to chose different file formats, sizes and quailties to export your photos to
+Jump to Top of Library###Home###Press Home to move to the top of the photo library
+Jump to Bottom of Library###End###Press End to move to the bottom of the photo library
+Create New Folder###Option-Shift-Command-N###Press Option-Shift-Command-N to create a new folder within your photo library
+Create New (Empty) Album###Shift-Command-N###Press Shift-Command-N To create a new empty albim within your photo library
+Create Album From Selection###Command-N###Press Command-N to create a new album from photos that are selected (highlighted)
+Create new Smart Album###Option-Command-N###Press Option-Command-N to creat a new smart album. A smart album is a type of album that will automaticly fill itself with photos that it is set to find. For example a Smart Album that is set to find all photos from the year 1998
+Set Event Key Photo###Press Space Over Photo###To set a key photo for an event hold the mouse over the event, move left or right to find the photo then press space on the keyboard. This works for a Faces group too. Another way to set the Key Photo is to go into the Event and right click the photo, then press 'Make Key Photo'
+Scroll to Selected Event###G###Press G to scroll the selected even into view
+Split Event###S###Highlight a picture in an event and Press S to split that picture and all pictures following it into a new event
+Change Size of Thumbnails###0, 2, 3, 1###Press 0, 2, 3, 1 (smallest to largest) to change the size of the photo thumbnail
+Magnify photo to fill view area###Double-click Photo###Double-click or press the space bar on a photo to magnify it to fit the viewing windows
+Reduce photo to thumbnail###Double-click magnified photo###Double-click or press space on a  magnified photo to reduce it back into a thumbnail view
+Enter/Exit Full-Screen View###Option-Command-F###Press Option-Command-F to enter or exit the full-screen view
+Show/Hide Titles###Shift-Command-T###Press Shift-Command-T to show or hide titles
+Show/Hide Event Titles###Shift-Command-F###Press Shift-Command-F to show or hide even titles in the photos view
+Show/Hide Hidden Photos###Shift-Command-H###Press Shift-Command-H to show or hide hidden photos
+Show/Hide Ratings###Shift-Command-R###Press Shift-Command-R to show or hide ratings
+Batch Change###Shift-Command-B###Press Shift-Command-B to batch change the title, data, or comments of all selected photos
+Show photo information###Command-I###Press Command-I to show the slected photo's information
+Rotate Photo###Command-R###Press Command-R to rotate the slected photo
+Duplicate Photo###Command-D###Press Command-D to duplicate the slected photo
+Cut Photo###Command-X###Press Command-X to cut the selected photo
+Copy Photo###Command-C###Press Command-C to copy the slected photo
+Paste Photo###Command-V###Press Command-V to paste the copied photo
+Flag/Unflag a Photo###Command-Period (.)###Press Command-Period (.) to flag or unflag the selected photo
+Hide/Show a Hidden Photo###Command-L###Press Command-L to make a photo hidden. If the command is performed on a photo that is already hidden the photo will become visable again.
+Manage keywords###Command-K###Press Command-K to manage keywords for a selected photo
+Delete Published Album###Command-Delete###Press Command-Delete to delete a published album
+Delete Photo###Delete###Press Delete on a selected photo to delete it from the photo library
+Move Photo to Trash###Option-Command-Delete###Press Option-Command-Delete to move the selected photo(s) to the trash
+Empty Trash###Shift-Command-Delete###Press Shift-Command-Delete to empty the iPhoto trash
+Select all Photos###Command-A###Press Command-A to select all photos
+Deselect all Photos###Shift-Command-A ###Press Shift-Command-A  to deselect all photos
+Remove a Photo’s Rating###Command-0###Press Command-0 to remove a photos rating
+Assign One Star to a Photo###Command-1###Press Command-1 to assign one star to a photo
+Assign Two Stars to a Photo###Command-2###Press Command-2 to assign two stars to a photo
+Assign Three Stars to a Photo###Command-3###Press Command-3 to assign three stars to a photo
+Assign four stars to a hoto###Command-4###Press Command-4 to assign four stars to a photo
+Assign Five Stars to a Photo###Command-5###Press Command-5 to assign five stars to a photo
+Stop a Slideshow###Escape (esc)###Press the Escape key (esc) during a slideshow to stop it
+Pause a Slideshow###Space###Press Space during a slideshow to pause it
+Enter Edit View###Command-E###Press Command-E to enter the edit view
+Open Crop Tool###C###Press C while in the edit view to open the crop tool
+Remove Red Eye###R###Press R while in the edit view to use the red eye removal tool
+Open Adjust Pane###A###Press A while in the edit view to open the adjust pane
+Open Effects Pane###E###Press E while in the edit view to open the effects pane
+Straighten Photo###S###Press S while in the edit view to open the straighten tool
+Retouch Photo###T###Press T while in the edit view to open the retouch tools
+Adjust White Balance###W###Press W while in the edit view to adjust the white balance
+Compare Edits###Shift###Press Shift while in the edit view to compare before and after edits
+Go to Next Photo###Right Arrow###Press the Right Arrow to go to the next photo
+Go to Previous Photo###Left Arrow###Press the Left Arrow to go to the previous photo
+Undo Last Action###Command-Z###Press Command-Z to undo the last action
+Redo Last Action###Shift-Command-Z###Press Shift-Command-Z to redo the last action
+Print###Command-P###Press Command-P to print
+Show Preferences###Command-Comma (,)###Press Command-Comma (,) to show the iPhoto preferences
+iPhoto Help###Command-Question Mark (?)###Press Command-Question Mark (?) to show the iPhoto help
+Close window###Command-W###Press Command-W to close the iPhoto window
+Minimize window###Command-M###Press Command-M to minimize the iPhoto window
+Hide iPhoto###Command-H###Press Command-H to hide the iPhoto window
+Quit iPhoto###Command-Q###Press Command-Q to quit iPhoto

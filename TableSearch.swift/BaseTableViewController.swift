@@ -27,7 +27,7 @@ class BaseTableViewController: UITableViewController {
     // MARK:
     
     func configureCell(cell: UITableViewCell, forProduct product: Product) {
-        cell.textLabel?.text = product.title
+        cell.textLabel.text = product.title
         cell.detailTextLabel?.text = "\(product.yearIntroduced)"
     }
 }

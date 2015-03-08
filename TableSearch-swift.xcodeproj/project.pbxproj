@@ -16,6 +16,7 @@
 		539AC6011959D3D100C3D028 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 539AC5FD1959D3D100C3D028 /* MainStoryboard.storyboard */; };
 		539AC6021959D3D100C3D028 /* TableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 539AC5FF1959D3D100C3D028 /* TableCell.xib */; };
 		539AC6051959D3E900C3D028 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 539AC6031959D3E900C3D028 /* Images.xcassets */; };
+		E360E38E1AABDEBF005397E9 /* data.txt in Resources */ = {isa = PBXBuildFile; fileRef = E360E38D1AABDEBF005397E9 /* data.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		539AC6001959D3D100C3D028 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TableCell.xib; sourceTree = SOURCE_ROOT; };
 		539AC6031959D3E900C3D028 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = SOURCE_ROOT; };
 		539AC6041959D3E900C3D028 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
+		E360E38D1AABDEBF005397E9 /* data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				539AC5F11959D3B800C3D028 /* AppDelegate.swift */,
+				E360E38D1AABDEBF005397E9 /* data.txt */,
 				539AC5F21959D3B800C3D028 /* BaseTableViewController.swift */,
 				539AC5F31959D3B800C3D028 /* DetailViewController.swift */,
 				539AC5F41959D3B800C3D028 /* MainTableViewController.swift */,
@@ -152,6 +155,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E360E38E1AABDEBF005397E9 /* data.txt in Resources */,
 				539AC6051959D3E900C3D028 /* Images.xcassets in Resources */,
 				539AC6021959D3D100C3D028 /* TableCell.xib in Resources */,
 				539AC6011959D3D100C3D028 /* MainStoryboard.storyboard in Resources */,
