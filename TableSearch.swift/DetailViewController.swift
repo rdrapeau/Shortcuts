@@ -44,6 +44,8 @@ class DetailViewController: UIViewController {
         
         let priceString = "\(product.introPrice)"
         priceLabel.text = priceString
+        priceLabel.numberOfLines = 0
+        priceLabel.sizeToFit()
     }
     
     // MARK: UIStateRestoration
