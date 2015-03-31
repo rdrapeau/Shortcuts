@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5341A08F1949FFD800BF1643 /* Search.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Search.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5341A08F1949FFD800BF1643 /* iPhoto Shortcuts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iPhoto Shortcuts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		539AC5F11959D3B800C3D028 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = TableSearch.swift/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
 		539AC5F21959D3B800C3D028 /* BaseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseTableViewController.swift; path = TableSearch.swift/BaseTableViewController.swift; sourceTree = SOURCE_ROOT; };
 		539AC5F31959D3B800C3D028 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = TableSearch.swift/DetailViewController.swift; sourceTree = SOURCE_ROOT; };
@@ -48,7 +48,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5341A08F1949FFD800BF1643 /* Search.swift.app */,
+				5341A08F1949FFD800BF1643 /* iPhoto Shortcuts.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -100,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5341A08E1949FFD800BF1643 /* Search.swift */ = {
+		5341A08E1949FFD800BF1643 /* iPhoto Shortcuts */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5341A0A71949FFD900BF1643 /* Build configuration list for PBXNativeTarget "Search.swift" */;
+			buildConfigurationList = 5341A0A71949FFD900BF1643 /* Build configuration list for PBXNativeTarget "iPhoto Shortcuts" */;
 			buildPhases = (
 				5341A08B1949FFD800BF1643 /* Sources */,
 				5341A08C1949FFD800BF1643 /* Frameworks */,
@@ -112,9 +112,9 @@
 			);
 			dependencies = (
 			);
-			name = Search.swift;
+			name = "iPhoto Shortcuts";
 			productName = Search.swift;
-			productReference = 5341A08F1949FFD800BF1643 /* Search.swift.app */;
+			productReference = 5341A08F1949FFD800BF1643 /* iPhoto Shortcuts.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -146,7 +146,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5341A08E1949FFD800BF1643 /* Search.swift */,
+				5341A08E1949FFD800BF1643 /* iPhoto Shortcuts */,
 			);
 		};
 /* End PBXProject section */
@@ -244,6 +244,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -282,6 +283,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				METAL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -322,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5341A0A71949FFD900BF1643 /* Build configuration list for PBXNativeTarget "Search.swift" */ = {
+		5341A0A71949FFD900BF1643 /* Build configuration list for PBXNativeTarget "iPhoto Shortcuts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5341A0A31949FFD900BF1643 /* Debug */,

@@ -17,7 +17,7 @@
                BlueprintIdentifier = "5341A08E1949FFD800BF1643"
                BuildableName = "Search.swift.app"
                BlueprintName = "Search.swift"
-               ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+               ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -48,13 +48,14 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -66,13 +67,14 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5341A08E1949FFD800BF1643"
             BuildableName = "Search.swift.app"
             BlueprintName = "Search.swift"
-            ReferencedContainer = "container:TableSearch-swift.xcodeproj">
+            ReferencedContainer = "container:iPhoto Shortcuts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
