@@ -8,7 +8,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     // MARK: Application Life Cycle
 
-    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
+    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         
         let path = NSBundle.mainBundle().pathForResource("data", ofType: "txt")
         let text = String(contentsOfFile: path!, encoding: NSUTF8StringEncoding, error: nil)!
@@ -24,11 +24,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
 
-        let navController = window.rootViewController as UINavigationController
+        let navController = window.rootViewController as! UINavigationController
         
         // Note we want the first view controller (not the visibleViewController) in case
         // we are being store from UIStateRestoration.
-        let tableViewController = navController.viewControllers[0] as MainTableViewController
+        let tableViewController = navController.viewControllers[0] as! MainTableViewController
         tableViewController.products = products
 
         return true

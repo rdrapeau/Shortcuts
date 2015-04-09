@@ -168,7 +168,7 @@ class MainTableViewController: BaseTableViewController, UISearchBarDelegate, UIS
         let filteredResults = searchResults.filter { finalCompoundPredicate.evaluateWithObject($0) }
         
         // Hand over the filtered results to our search results table.
-        let resultsController = searchController.searchResultsController as ResultsTableController
+        let resultsController = searchController.searchResultsController as! ResultsTableController
         resultsController.filteredProducts = filteredResults
         resultsController.tableView.reloadData()
     }
@@ -180,7 +180,7 @@ class MainTableViewController: BaseTableViewController, UISearchBarDelegate, UIS
     }
     
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier(Constants.TableViewCell.identifier, forIndexPath: indexPath) as UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier(Constants.TableViewCell.identifier, forIndexPath: indexPath) as! UITableViewCell
 
         let product = products[indexPath.row]
         configureCell(cell, forProduct: product)
@@ -252,6 +252,6 @@ class MainTableViewController: BaseTableViewController, UISearchBarDelegate, UIS
         restoredState.wasFirstResponder = coder.decodeBoolForKey(RestorationKeys.searchBarIsFirstResponder)
         
         // Restore the text in the search field.
-        searchController.searchBar.text = coder.decodeObjectForKey(RestorationKeys.searchBarText) as String
+        searchController.searchBar.text = coder.decodeObjectForKey(RestorationKeys.searchBarText) as! String
     }
 }

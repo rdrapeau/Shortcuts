@@ -20,7 +20,7 @@ class ResultsTableController : BaseTableViewController {
     }
     
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier(Constants.TableViewCell.identifier) as UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier(Constants.TableViewCell.identifier) as! UITableViewCell
         
         let product = filteredProducts[indexPath.row]
         configureCell(cell, forProduct: product)

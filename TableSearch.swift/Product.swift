@@ -29,10 +29,10 @@ class Product: NSObject, NSCoding {
     // MARK: NSCoding
     
     required init(coder aDecoder: NSCoder) {
-        title = aDecoder.decodeObjectForKey(CoderKeys.name) as String
-        hardwareType = aDecoder.decodeObjectForKey(CoderKeys.type) as String
-        yearIntroduced = aDecoder.decodeObjectForKey(CoderKeys.type) as String
-        introPrice = aDecoder.decodeObjectForKey(CoderKeys.type) as String
+        title = aDecoder.decodeObjectForKey(CoderKeys.name) as! String
+        hardwareType = aDecoder.decodeObjectForKey(CoderKeys.type) as! String
+        yearIntroduced = aDecoder.decodeObjectForKey(CoderKeys.type) as! String
+        introPrice = aDecoder.decodeObjectForKey(CoderKeys.type) as! String
     }
     
     func encodeWithCoder(aCoder: NSCoder) {
